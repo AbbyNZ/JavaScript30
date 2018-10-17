@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body, html {
+	background-color: #90F3DF;
+}
+
+.title, p {
+  text-align: center;
+}
+
+.exercise {
+  text-align: center;
+}
+
+#born_fifteen, #fnames, #oldestInv, #total_lived, #years_lived, #de, #lastName, #transpo {
+	padding: 15px;
+	border: 2px solid black;
+  margin: auto;
+  text-align: center;
+  display: block;
+  width: 70%;
+}
