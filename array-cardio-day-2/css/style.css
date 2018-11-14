@@ -1,0 +1,12 @@
+body, html {
+ background-color: lightblue; 
+}
+
+.exercise {
+  text-align: center;
+}
+
+#nineteen, #allNineteen, #findComment, #findIndex, #newComment {
+  text-align: center;
+  display: block;
+}
