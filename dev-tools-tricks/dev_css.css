@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html {
+	background-color: #fbe0d6;
+}
+
+.exercise, p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#regular, #inter, #styled, #warning, #error, #info, #testing, #clearing, #viewing, #grouping, #counting, #timing {
+  text-align: center;
+}
