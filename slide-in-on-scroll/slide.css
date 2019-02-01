@@ -4,6 +4,7 @@ html {
   box-sizing: border-box;
   background: #d7f2c4;
   font-family: 'helvetica neue';
+  line-height: 1.5em;
   font-size: 20px;
   font-weight: 200;
 }
